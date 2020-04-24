@@ -1,0 +1,7 @@
+.env
+.env.test
+.idea
+.vscode
+node_modules
+build
+dist
